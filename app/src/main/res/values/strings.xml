@@ -1,0 +1,6 @@
+<resources>
+    <string name="version">VERSI</string>
+    <string name="mainActivity_infoTitle">Info</string>
+    <string name="mainActivity_googlePlayServiceWarningMessage">Mohon install Google Play services terlebih dahulu.</string>
+    <string name="mainActivity_OK">OK</string>
+</resources>
